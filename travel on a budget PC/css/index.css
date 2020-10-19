@@ -310,5 +310,5 @@
 
 .banner .center-wrap .leftbtn:hover,
 .banner .center-wrap .rightbtn:hover {
-    opacity: .6;
+    /*opacity: .6;*/
 }
